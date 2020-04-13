@@ -1,0 +1,7 @@
+.git/* filter=lfs diff=lfs merge=lfs -text
+.vs/* filter=lfs diff=lfs merge=lfs -text
+2dgameengine_sdl/** filter=lfs diff=lfs merge=lfs -text
+assets/** filter=lfs diff=lfs merge=lfs -text
+debug/** filter=lfs diff=lfs merge=lfs -text
+lib/** filter=lfs diff=lfs merge=lfs -text
+*.sln filter=lfs diff=lfs merge=lfs -text
